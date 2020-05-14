@@ -1,3 +1,1 @@
-
-
-deno completions zsh > ~/.zinit/completions/deno.zsh
+deno completions zsh > ~/.zinit/completions/_deno
